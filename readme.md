@@ -8,7 +8,7 @@ Desafio pego na plataforma Rocketseat com o intuito de praticar HTML5, CSS3 e Ja
 
 ## 🔍 Layout
 Este layout foi criado por João Inácio e Tamires Santos.
-### <a href="https://comforting-puppy-56b897.netlify.app/">Acesse o layout</a>
+### <a href="https://comforting-puppy-56b897.netlify.app">Acesse o layout</a>
 
 ## 💻 Tecnologias utilizadas
 
