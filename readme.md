@@ -14,7 +14,6 @@ Este layout foi criado por João Inácio e Tamires Santos.
 
 - ``HTML5``
 - ``CSS3``
-- ``JavaScript``
 
 ## 🧑‍💻 Criador
 
