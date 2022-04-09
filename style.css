@@ -242,7 +242,7 @@ input[type="checkbox"] {
     height: 100%;
     width: 100%;
     background: #000;
-    transition: all 0.1s ease-in-out;
+    transition: all 0.6s ease-in-out;
   }
 
   #active:checked ~ .wrapper {
@@ -266,7 +266,7 @@ input[type="checkbox"] {
     border-radius: 50%;
     font-size: 20px;
     cursor: pointer;
-    transition: all 0.1s ease-in-out;
+    transition: all 0.3s ease-in-out;
   }
 
   .menu-btn span,
@@ -279,7 +279,7 @@ input[type="checkbox"] {
     left: 30%;
     width: 40%;
     border-bottom: 2px solid var(--text-color-menu-mobile);
-    transition: transform 0.1s cubic-bezier(0.215, 0.61, 0.355, 1);
+    transition: transform 0.6s cubic-bezier(0.215, 0.61, 0.355, 1);
   }
 
   .menu-btn:before {
@@ -341,13 +341,13 @@ input[type="checkbox"] {
     opacity: 1;
   }
   .menu-items ul li a {
-    transition: opacity 1.2s, transform 0.6s cubic-bezier(0.215, 0.61, 0.355, 1);
+    transition: opacity 1.2s, transform 1.2s cubic-bezier(0.215, 0.61, 0.355, 1);
     transform: translateX(100px);
   }
   #active:checked ~ .menu-items ul li a {
     transform: none;
     transition-timing-function: ease, cubic-bezier(0.1, 1.3, 0.3, 1); /* easeOutBackを緩めた感じ */
-    transition-delay: 0.1s;
+    transition-delay: 0.6s;
     transform: translateX(-100px);
   }
 }
