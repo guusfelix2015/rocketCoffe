@@ -1,14 +1,14 @@
 ## 📄 Descrição
 RocketCoffee é uma homepage desenvolvida para uma marca de café
 
-### <a href="">Acesse o site</a>
+### <a href="https://comforting-puppy-56b897.netlify.app">Acesse o site</a>
 
 ## 📑 Observação
 Desafio pego na plataforma Rocketseat com o intuito de praticar HTML5, CSS3 e JavaScript.
 
 ## 🔍 Layout
 Este layout foi criado por João Inácio e Tamires Santos.
-### <a href="https://comforting-puppy-56b897.netlify.app">Acesse o layout</a>
+### <a href="https://www.figma.com/file/8OXi7jkzY0qb0cuU5b0ufu/RocketCoffee-(Copy)?node-id=316%3A86">Acesse o layout</a>
 
 ## 💻 Tecnologias utilizadas
 
